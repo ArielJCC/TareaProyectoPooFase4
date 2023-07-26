@@ -1,0 +1,30 @@
+C:\Users\Ariel\Desktop\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.exe
+C:\Users\Ariel\Desktop\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.deps.json
+C:\Users\Ariel\Desktop\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.runtimeconfig.json
+C:\Users\Ariel\Desktop\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.pdb
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\refint\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.pdb
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.genruntimeconfig.cache
+C:\Users\Ariel\Desktop\TareaProyectoPoo\obj\Debug\net7.0\ref\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.exe
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.deps.json
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.runtimeconfig.json
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\bin\Debug\net7.0\TareaProyectoPoo.pdb
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\refint\TareaProyectoPoo.dll
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.pdb
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\TareaProyectoPoo.genruntimeconfig.cache
+C:\Users\Ariel\Desktop\POO FASE4\TareaProyectoPoo\obj\Debug\net7.0\ref\TareaProyectoPoo.dll
